@@ -1,0 +1,269 @@
+Alpha-3 code, Country,Alpha-2 code,Numeric code,Latitude (average),Longitude (average)
+AFG, Afghanistan,AF,4,33.0,65.0
+ALB, Albania,AL,8,41.0,20.0
+DZA, Algeria,DZ,12,28.0,3.0
+ASM, American Samoa,AS,16,-14.3333,-170.0
+AND, Andorra,AD,20,42.5,1.6
+AGO, Angola,AO,24,-12.5,18.5
+AIA, Anguilla,AI,660,18.25,-63.1667
+ATA, Antarctica,AQ,10,-90.0,0.0
+ATG, Antigua and Barbuda,AG,28,17.05,-61.8
+ARG, Argentina,AR,32,-34.0,-64.0
+ARM, Armenia,AM,51,40.0,45.0
+ABW, Aruba,AW,533,12.5,-69.9667
+AUS, Australia,AU,36,-27.0,133.0
+AUT, Austria,AT,40,47.3333,13.3333
+AUH, Austria-Hungary,xx,300,48.0,16.0
+AZE, Azerbaijan,AZ,31,40.5,47.5
+BAD, Baden,xx,267,48.7,8.2
+BHS, Bahamas,BS,44,24.25,-76.0
+BHR, Bahrain,BH,48,26.0,50.55
+BAV, Bavaria,xx,245,48.0,11.5
+BGD, Bangladesh,BD,50,24.0,90.0
+BRB, Barbados,BB,52,13.1667,-59.5333
+BLR, Belarus,BY,112,53.0,28.0
+BEL, Belgium,BE,56,50.8333,4.0
+BLZ, Belize,BZ,84,17.25,-88.75
+BEN, Benin,BJ,204,9.5,2.25
+BMU, Bermuda,BM,60,32.3333,-64.75
+BTN, Bhutan,BT,64,27.5,90.5
+BOL, Bolivia,BO,68,-17.0,-65.0
+BIH, Bosnia and Herzegovina,BA,70,44.0,18.0
+BWA, Botswana,BW,72,-22.0,24.0
+BVT, Bouvet Island,BV,74,-54.4333,3.4
+BRA, Brazil,BR,76,-10.0,-55.0
+IOT, British Indian Ocean Territory,IO,86,-6.0,71.5
+BRN, Brunei,BN,96,4.5,114.6667
+BGR, Bulgaria,BG,100,43.0,25.0
+BFA, Burkina Faso,BF,854,13.0,-2.0
+BDI, Burundi,BI,108,-3.5,30.0
+KHM, Cambodia,KH,116,13.0,105.0
+CMR, Cameroon,CM,120,6.0,12.0
+CAN, Canada,CA,124,60.0,-95.0
+CPV, Cape Verde,CV,132,16.0,-24.0
+CYM, Cayman Islands,KY,136,19.5,-80.5
+CAF, Central African Republic,CF,140,7.0,21.0
+TCD, Chad,TD,148,15.0,19.0
+CHL, Chile,CL,152,-30.0,-71.0
+CHN, China,CN,156,35.0,105.0
+CXR, Christmas Island,CX,162,-10.5,105.6667
+CCK, Cocos (Keeling) Islands,CC,166,-12.5,96.8333
+COL, Colombia,CO,170,4.0,-72.0
+COM, Comoros,KM,174,-12.1667,44.25
+COG, Congo,CG,178,-1.0,15.0
+COD, Democratic Republic of the Congo,CD,180,0.0,25.0
+COK, Cook Islands,CK,184,-21.2333,-159.7667
+CRI, Costa Rica,CR,188,10.0,-84.0
+CIV, Ivory Coast,CI,384,8.0,-5.0
+HRV, Croatia,HR,191,45.1667,15.5
+CUB, Cuba,CU,192,21.5,-80.0
+CYP, Cyprus,CY,196,35.0,33.0
+CZE, Czech Republic,CZ,203,49.75,15.5
+CZR, Czechoslovakia,xx,315,49.75,15.5
+DNK, Denmark,DK,208,56.0,10.0
+DJI, Djibouti,DJ,262,11.5,43.0
+DMA, Dominica,DM,212,15.4167,-61.3333
+DOM, Dominican Republic,DO,214,19.0,-70.6667
+ECU, Ecuador,EC,218,-2.0,-77.5
+EGY, Egypt,EG,818,27.0,30.0
+SLV, El Salvador,SV,222,13.8333,-88.9167
+GNQ, Equatorial Guinea,GQ,226,2.0,10.0
+ERI, Eritrea,ER,232,15.0,39.0
+EST, Estonia,EE,233,59.0,26.0
+ETH, Ethiopia,ET,231,8.0,38.0
+FLK, Falkland Islands (Malvinas),FK,238,-51.75,-59.0
+FRO, Faroe Islands,FO,234,62.0,-7.0
+FJI, Fiji,FJ,242,-18.0,175.0
+FIN, Finland,FI,246,64.0,26.0
+FRA, France,FR,250,46.0,2.0
+GUF, French Guiana,GF,254,4.0,-53.0
+PYF, French Polynesia,PF,258,-15.0,-140.0
+ATF, French Southern Territories,TF,260,-43.0,67.0
+GAB, Gabon,GA,266,-1.0,11.75
+GMB, Gambia,GM,270,13.4667,-16.5667
+GEO, Georgia,GE,268,42.0,43.5
+DEU, Germany,DE,276,51.0,9.0
+GDR, German Democratic Republic,GD,265,52.0,13.0
+GFR, German Federal Republic,GF,260,51.0,7.0
+GHA, Ghana,GH,288,8.0,-2.0
+GIB, Gibraltar,GI,292,36.1833,-5.3667
+GRC, Greece,GR,300,39.0,22.0
+GRL, Greenland,GL,304,72.0,-40.0
+GRD, Grenada,GD,308,12.1167,-61.6667
+GLP, Guadeloupe,GP,312,16.25,-61.5833
+GUM, Guam,GU,316,13.4667,144.7833
+GTM, Guatemala,GT,320,15.5,-90.25
+GGY, Guernsey,GG,831,49.5,-2.56
+GIN, Guinea,GN,324,11.0,-10.0
+GNB, Guinea-Bissau,GW,624,12.0,-15.0
+GUY, Guyana,GY,328,5.0,-59.0
+HTI, Haiti,HT,332,19.0,-72.4167
+HAN, Hanover,xx,240,52.0,10.0
+HSE, Hesse Electoral,xx,273,51.3,9.5
+HSG, Hesse Grand Ducal,xx,275,49.9,8.7
+HMD, Heard Island and McDonald Islands,HM,334,-53.1,72.5167
+VAT, Holy See (Vatican City State),VA,336,41.9,12.45
+HND, Honduras,HN,340,15.0,-86.5
+HKG, Hong Kong,HK,344,22.25,114.1667
+HUN, Hungary,HU,348,47.0,20.0
+ISL, Iceland,IS,352,65.0,-18.0
+IND, India,IN,356,20.0,77.0
+IDN, Indonesia,ID,360,-5.0,120.0
+IRN, Iran,IR,364,32.0,53.0
+IRQ, Iraq,IQ,368,33.0,44.0
+IRL, Ireland,IE,372,53.0,-8.0
+IMN, Isle of Man,IM,833,54.23,-4.55
+ISR, Israel,IL,376,31.5,34.75
+ITA, Italy,IT,380,42.8333,12.8333
+JAM, Jamaica,JM,388,18.25,-77.5
+JPN, Japan,JP,392,36.0,138.0
+JEY, Jersey,JE,832,49.21,-2.13
+JOR, Jordan,JO,400,31.0,36.0
+KAZ, Kazakhstan,KZ,398,48.0,68.0
+KEN, Kenya,KE,404,1.0,38.0
+KIR, Kiribati,KI,296,1.4167,173.0
+PRK, North Korea,KP,408,40.0,127.0
+KOR, South Korea,KR,410,37.0,127.5
+KRE, Korea,xx,730,38.0,127.0
+KOS, Kosovo,xx,347,43.0,21.0
+KWT, Kuwait,KW,414,29.3375,47.6581
+KGZ, Kyrgyzstan,KG,417,41.0,75.0
+LAO, Lao People's Democratic Republic,LA,418,18.0,105.0
+LVA, Latvia,LV,428,57.0,25.0
+LBN, Lebanon,LB,422,33.8333,35.8333
+LSO, Lesotho,LS,426,-29.5,28.5
+LBR, Liberia,LR,430,6.5,-9.5
+LBY, Libya,LY,434,25.0,17.0
+LIE, Liechtenstein,LI,438,47.1667,9.5333
+LTU, Lithuania,LT,440,56.0,24.0
+LUX, Luxembourg,LU,442,49.75,6.1667
+MAC, Macao,MO,446,22.1667,113.55
+MKD, Macedonia,MK,807,41.8333,22.0
+MDG, Madagascar,MG,450,-20.0,47.0
+MWI, Malawi,MW,454,-13.5,34.0
+MYS, Malaysia,MY,458,2.5,112.5
+MDV, Maldives,MV,462,3.25,73.0
+MLI, Mali,ML,466,17.0,-4.0
+MLT, Malta,MT,470,35.8333,14.5833
+MHL, Marshall Islands,MH,584,9.0,168.0
+MTQ, Martinique,MQ,474,14.6667,-61.0
+MRT, Mauritania,MR,478,20.0,-12.0
+MUS, Mauritius,MU,480,-20.2833,57.55
+MYT, Mayotte,YT,175,-12.8333,45.1667
+MEC, Mecklenburg-Schwerin,xx,280,53.0,11.0
+MEX, Mexico,MX,484,23.0,-102.0
+FSM, Micronesia,FM,583,6.9167,158.25
+MOD, Modena,xx,332,45.0,11.0
+MDA, Moldova,MD,498,47.0,29.0
+MCO, Monaco,MC,492,43.7333,7.4
+MNG, Mongolia,MN,496,46.0,105.0
+MNE, Montenegro,ME,499,42.0,19.0
+MSR, Montserrat,MS,500,16.75,-62.2
+MAR, Morocco,MA,504,32.0,-5.0
+MOZ, Mozambique,MZ,508,-18.25,35.0
+MMR, Myanmar,MM,104,22.0,98.0
+NAM, Namibia,,516,-22.0,17.0
+NRU, Nauru,NR,520,-0.5333,166.9167
+NPL, Nepal,NP,524,28.0,84.0
+NLD, Netherlands,NL,528,52.5,5.75
+ANT, Netherlands Antilles,AN,530,12.25,-68.75
+NCL, New Caledonia,NC,540,-21.5,165.5
+NZL, New Zealand,NZ,554,-41.0,174.0
+NIC, Nicaragua,NI,558,13.0,-85.0
+NER, Niger,NE,562,16.0,8.0
+NGA, Nigeria,NG,566,10.0,8.0
+NIU, Niue,NU,570,-19.0333,-169.8667
+NFK, Norfolk Island,NF,574,-29.0333,167.95
+MNP, Northern Mariana Islands,MP,580,15.2,145.75
+NOR, Norway,NO,578,62.0,10.0
+OMN, Oman,OM,512,21.0,57.0
+PAK, Pakistan,PK,586,30.0,70.0
+PLW, Palau,PW,585,7.5,134.5
+PSE, Palestinian Territory,PS,275,32.0,35.25
+PAN, Panama,PA,591,9.0,-80.0
+PAP, Papal States,xx,327,42.0,12.0
+PNG, Papua New Guinea,PG,598,-6.0,147.0
+PRY, Paraguay,PY,600,-23.0,-58.0
+PMA, Parma,xx,335,45.0,11.0
+PER, Peru,PE,604,-10.0,-76.0
+PHL, Philippines,PH,608,13.0,122.0
+PCN, Pitcairn,PN,612,-24.7,-127.4
+POL, Poland,PL,616,52.0,20.0
+PRT, Portugal,PT,620,39.5,-8.0
+PRI, Puerto Rico,PR,630,18.25,-66.5
+QAT, Qatar,QA,634,25.5,51.25
+REU, Réunion,RE,638,-21.1,55.6
+ROU, Romania,RO,642,46.0,25.0
+RUS, Russia,RU,643,60.0,100.0
+RWA, Rwanda,RW,646,-2.0,30.0
+SHN, Saint Helena and Tristan da Cunha,SH,654,-15.9333,-5.7
+KNA, Saint Kitts and Nevis,KN,659,17.3333,-62.75
+LCA, Saint Lucia,LC,662,13.8833,-61.1333
+SPM, Saint Pierre and Miquelon,PM,666,46.8333,-56.3333
+VCT, Saint Vincent and the Grenadines,VC,670,13.25,-61.2
+WSM, Samoa,WS,882,-13.5833,-172.3333
+SMR, San Marino,SM,674,43.7667,12.4167
+STP, Sao Tome and Principe,ST,678,1.0,7.0
+SAU, Saudi Arabia,SA,682,25.0,45.0
+SAX, Saxony,xx,269,51.0,13.0
+SEN, Senegal,SN,686,14.0,-14.0
+SRB, Serbia,RS,688,44.0,21.0
+SYC, Seychelles,SC,690,-4.5833,55.6667
+SLE, Sierra Leone,SL,694,8.5,-11.5
+SGP, Singapore,SG,702,1.3667,103.8
+SVK, Slovakia,SK,703,48.6667,19.5
+SVN, Slovenia,SI,705,46.0,15.0
+SLB, Solomon Islands,SB,90,-8.0,159.0
+SOM, Somalia,SO,706,10.0,49.0
+ZAF, South Africa,ZA,710,-29.0,24.0
+SGS, South Georgia and the South Sandwich Islands,GS,239,-54.5,-37.0
+SSD, South Sudan,SS,728,8.0,30.0
+ESP, Spain,ES,724,40.0,-4.0
+LKA, Sri Lanka,LK,144,7.0,81.0
+SDN, Sudan,SD,736,15.0,30.0
+SUR, Suriname,SR,740,4.0,-56.0
+SJM, Svalbard and Jan Mayen,SJ,744,78.0,20.0
+SWZ, Swaziland,SZ,748,-26.5,31.5
+SWE, Sweden,SE,752,62.0,15.0
+CHE, Switzerland,CH,756,47.0,8.0
+SYR, Syria,SY,760,35.0,38.0
+TWN, Taiwan,TW,158,23.5,121.0
+TJK, Tajikistan,TJ,762,39.0,71.0
+TZA, Tanzania,TZ,834,-6.0,35.0
+THA, Thailand,TH,764,15.0,100.0
+TLS, Timor-Leste,TL,626,-8.55,125.5167
+TGO, Togo,TG,768,8.0,1.1667
+TKL, Tokelau,TK,772,-9.0,-172.0
+TON, Tonga,TO,776,-20.0,-175.0
+TTO, Trinidad and Tobago,TT,780,11.0,-61.0
+TUN, Tunisia,TN,788,34.0,9.0
+TUR, Turkey,TR,792,39.0,35.0
+TKM, Turkmenistan,TM,795,40.0,60.0
+TCA, Turks and Caicos Islands,TC,796,21.75,-71.5833
+TUS, Tuscany,xx,337,44.0,11.0
+TUV, Tuvalu,TV,798,-8.0,178.0
+SIC, Two Sicilies,xx,329,37.5,15.0
+UGA, Uganda,UG,800,1.0,32.0
+UKR, Ukraine,UA,804,49.0,32.0
+ARE, United Arab Emirates,AE,784,24.0,54.0
+GBR, United Kingdom,GB,826,54.0,-2.0
+USA, United States,US,840,38.0,-97.0
+UMI, United States Minor Outlying Islands,UM,581,19.2833,166.6
+URY, Uruguay,UY,858,-33.0,-56.0
+UZB, Uzbekistan,UZ,860,41.0,64.0
+VUT, Vanuatu,VU,548,-16.0,167.0
+VEN, Venezuela,VE,862,8.0,-66.0
+VNM, Vietnam,VN,704,16.0,106.0
+RVN, Republic of Vietnam,xx,817,18.0,105.0
+VGB, British Virgin Islands,VG,92,18.5,-64.5
+VIR, US Virgin Islands,VI,850,18.3333,-64.8333
+WLF, Wallis and Futuna,WF,876,-13.3,-176.2
+ESH, Western Sahara,EH,732,24.5,-13.0
+WRT, Wuertemburg,xx,271,49.0,9.0
+YPR, Yemen,xx,680,15.0,48.0
+YEM, Yemen,YE,887,15.0,48.0
+YAR, Yemen,xx,678,15.0,48.0
+YUG, Yugoslavia,xx,345,45.0,20.5
+ZMB, Zambia,ZM,894,-15.0,30.0
+ZWE, Zimbabwe,ZW,716,-20.0,30.0
+ZAN, Zanzibar,xx,511,-6.0,39.0
